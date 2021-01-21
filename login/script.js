@@ -15,3 +15,7 @@ function check() {
         alert("틀림")
     }
 }
+
+function signin() {
+    location.href = "https://jyjun14.github.io/myweb/signin/main.html"
+}
