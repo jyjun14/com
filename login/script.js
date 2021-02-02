@@ -4,15 +4,21 @@ function check() {
     if (id == "jyjun14") {
         if (pwd == "jyjun14!") {
             alert("정답")
+            document.getElementById("inputid").value = "";
+            document.getElementById("inputpwd").value = "";
         }
         
         else {
             alert("틀림")
+            document.getElementById("inputid").value = "";
+            document.getElementById("inputpwd").value = "";
         }
     }
 
     else {
         alert("틀림")
+        document.getElementById("inputid").value = "";
+        document.getElementById("inputpwd").value = "";
     }
 }
 
