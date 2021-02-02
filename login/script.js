@@ -23,5 +23,5 @@ function check() {
 }
 
 function signin() {
-    location.href = "https://jyjun14.github.io/myweb/signin/main.html"
+    location.href = "https://jyjun14.github.io/mainpage/signin/main.html"
 }
