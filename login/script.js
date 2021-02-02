@@ -3,7 +3,7 @@ function check() {
     var pwd = document.getElementById("inputpwd").value;
     if (id == "jyjun14") {
         if (pwd == "jyjun14!") {
-            alert("올~ㅋ 맞음")
+            alert("정답")
         }
         
         else {
